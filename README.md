@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,ts,ruby,mysql,bash,linux,kali,arch,git,github,vscode,visualstudio,eclipse,idea,pycharm,webstorm,phpstorm,nodejs,figma,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,ts,ruby,mysql,bash,linux,kali,arch,debian,git,github,vscode,visualstudio,eclipse,idea,pycharm,webstorm,phpstorm,nodejs,figma,&perline=9" />
   </a>
 </p>
 
@@ -69,6 +69,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -80,6 +81,7 @@
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-B37BEE?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![DB Browser](https://img.shields.io/badge/DB%20Browser-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 ---
 
 ## 📊 Profile Statistics
