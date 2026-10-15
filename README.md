@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,ts,ruby,mysql,bash,linux,kali,arch,git,github,vscode,visualstudio,eclipse,idea,pycharm,webstorm,phpstorm,figma,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,ts,ruby,mysql,bash,linux,kali,arch,git,github,vscode,visualstudio,eclipse,idea,pycharm,webstorm,phpstorm,nodejs,figma,&perline=9" />
   </a>
 </p>
 
@@ -63,6 +63,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🧰 Tools & OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
