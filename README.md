@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,ts,ruby,mysql,bash,angular,linux,kali,arch,debian,ubuntu,git,github,vscode,visualstudio,eclipse,idea,pycharm,webstorm,phpstorm,nodejs,figma,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,angular,ts,ruby,mysql,bash,linux,kali,arch,debian,ubuntu,git,github,vscode,visualstudio,eclipse,idea,pycharm,webstorm,phpstorm,nodejs,figma,&perline=9" />
   </a>
 </p>
 
