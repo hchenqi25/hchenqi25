@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,angular,ts,ruby,mysql,bash,linux,kali,arch,debian,ubuntu,git,github,vscode,visualstudio,eclipse,idea,pycharm,webstorm,phpstorm,nodejs,figma,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,angular,ts,ruby,mysql,bash,linux,kali,arch,debian,ubuntu,git,github,vscode,visualstudio,vscodium,eclipse,idea,pycharm,webstorm,phpstorm,nodejs,figma,obsidian,mongo,&perline=9" />
   </a>
 </p>
 
@@ -84,6 +84,9 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![DB Browser](https://img.shields.io/badge/DB%20Browser-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-%232F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 ---
 
 ## 📊 Profile Statistics
