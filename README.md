@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,angular,ts,ruby,mysql,sqlite,bash,linux,kali,arch,debian,ubuntu,git,github,vscode,visualstudio,vscodium,eclipse,idea,pycharm,webstorm,phpstorm,nodejs,figma,obsidian,mongo,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,php,html,css,js,angular,ts,ruby,mysql,sqlite,bash,linux,kali,arch,debian,ubuntu,git,github,vscode,visualstudio,vscodium,eclipse,idea,pycharm,webstorm,phpstorm,nodejs,figma,obsidian,mongo,bootstrap,npm,powershell,md&perline=9" />
   </a>
 </p>
 
@@ -87,6 +87,10 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-%232F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238512f7.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ---
 
 ## 📊 Profile Statistics
