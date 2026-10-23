@@ -13,11 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=chenqihong&icon=3&color=6" alt="Visitor Count" />
-  </a>
-</p>
 
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -33,10 +28,6 @@
 
 ---
 
-<!--- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
 
 ---
 
@@ -103,13 +94,6 @@
 
 <br>
 
-### 🏆 Profile Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width="85%" src="https://github-profile-trophy.vercel.app/?username=chenqihong&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
 
 ---
 
